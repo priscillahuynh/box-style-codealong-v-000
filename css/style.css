@@ -99,6 +99,10 @@ img, video, audio, iframe, table, form {
   max-width: 100%; /* FF, Safari, Chrome */
 }
 
+.medium-fade {
+  
+}
+
 /*////////// FIXES //////////*/
 
 * {
