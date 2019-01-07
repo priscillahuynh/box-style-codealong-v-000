@@ -312,7 +312,7 @@ background: linear-gradient(
 /*////////// LOGO //////////*/
 
 *logo {
-  
+  padding: 84 0 0px;
 }
 
 #logo h1 {
