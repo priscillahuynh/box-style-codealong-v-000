@@ -226,7 +226,7 @@ header {
 }
 
 #navbar nav a {
-  display: block;
+  display: inline-block;
 }
 
 /*////////// LOGO //////////*/
