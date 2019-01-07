@@ -360,6 +360,7 @@ section {
 /*////////// FOOTER //////////*/
 footer {
   text-align: center;
-  font-size: 
+  font-size: 0.75em;
+  padding: 10px;
 }
 
