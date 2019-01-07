@@ -231,7 +231,9 @@ header {
   margin: 0;
   padding: 22px 0px;
   text-transform: uppercase;
-  
+  color: black;
+  text-align: center;
+  border-right; 
 }
 
 /*////////// LOGO //////////*/
