@@ -205,8 +205,8 @@ background: linear-gradient(
 }
 
 /*////////// HEADER //////////*/
-margin {
-  
+header {
+  margin: 0 0 30px;
 }
 
 
