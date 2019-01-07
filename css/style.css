@@ -39,7 +39,8 @@ figcaption {
 
 /*////////// BACKGROUNDS //////////*/
 .white-wood {
-  backgroundL: url(../images/white-wood.jpg) no-repeat center
+  background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: 
 }
 
 
